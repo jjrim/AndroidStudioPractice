@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab1: Reverse text</string>
+    <string name="editText">Canada</string>
+    <string name="reverseButton">Reverse</string>
+    <string name="resultText">Output</string>
+    <string name="hint">type the world</string>
+    <string name="enterText">Enter text to reverse: </string>
+
+</resources>
