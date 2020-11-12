@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="random_color_button">Random Color</string>
+    <string name="serial_number_button">Serial Number</string>
+    <string name="api_version_button">Api Version</string>
+    <string name="speak_button">Speak</string>
+    <string name="back_button">Back</string>
+
+
+
+</resources>
